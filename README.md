@@ -37,6 +37,7 @@ In case of deterioration under initial therapy or very severe presentation (resp
 ### Schema: Drug Treatment Options
 _This table consists of 4 columns. You can scroll / scroll horizontally on your phone and tablet._
 
+<html>
 <table>
 <tr>
 <td> Severity disease</br>General characteristics </td>
@@ -119,7 +120,7 @@ Overview children: [link child formulary]
 </td>
 </tr>
 </table>
-
+</html>
 
 \* Risk factors: cardiovascular stress, underlying lung disease, immune suppression, primary or secondary immune deficiency, older age (70+).
 

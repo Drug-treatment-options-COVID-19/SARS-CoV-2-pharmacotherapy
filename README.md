@@ -37,6 +37,89 @@ In case of deterioration under initial therapy or very severe presentation (resp
 ### Schema: Drug Treatment Options
 _This table consists of 4 columns. You can scroll / scroll horizontally on your phone and tablet._
 
+<table>
+<tr>
+<td> Severity disease</br>General characteristics </td>
+<td> Risk factors * fatal course COVID-19 </td>
+<td> Pharmacological treatment </td>
+<td> Comments </td>
+</tr>
+<tr>
+<td rowspan="2"> Mild</br>
+No recording indication</br>
+No extra oxygen requirement </td>
+<td>No</td>
+        <td>No treatment</td>
+        <td>Click here for the NHG advice</br>
+	    Click here for the Verenso advice</br>
+	    Click here for the NVALT advice
+        </td>
+      </tr>
+      <tr>
+	<td>Yes</td>
+        <td>In principle no treatment</br>
+	    See notes for a differentiated policy
+	</td>
+        <td> Monitor the course.In case of decline and need for admission: see "moderately serious"</br>
+	    For specialist: Consider starting only in patients with very serious underlying suffering or immune disorder, for example: recent stem cell transplant, severe COPD or heart failure 
+        </td>
+      </tr>
+      <tr>
+<td>"Moderately serious
+Recording indication nursing ward
+Additional oxygen delivery necessary"
+</td>
+<td>Yes or no</td>
+<td>Chloroquine base or hydroxychloroquine
+</br>
+Chloroquine base dosage:
+Adults: 600 mg loading dose (6 tablets A-CQ 100 mg), 300 mg 12 hours later (3 tablets A-CQ 100 mg), followed by 300 mg twice daily per os on days 2-5 **
+</br>
+Children: [link child formulary]
+</br>
+Hydroxychloroquine sulfate dosage:
+</br>
+Adults: loading dose 2 times daily 400 mg per os, then twice daily 200 mg per day on days 2-5 **
+</br>
+Children 1 month to 18 years old
+</br>
+[link child formulary]
+<td>Given the lack of evidence for the clinical effectiveness of these agents in COVID-19, optimal supportive care is most important.
+</br>
+If drug treatment is chosen, if necessary adaptation based on the course of the disease and virus clearance
+</br>
+Consider switching or adding remdesivir in case of insufficient response or clinical deterioration (see under "Very serious")
+</br>
+</td>
+</tr>
+<tr>
+<td>Very serious</br>
+Recording indication MC or IC ventilation or ECMO necessary
+</br>
+Or
+</br>
+Clinical deterioration under initial antiviral therapy (in moderate disease)
+<td>
+Yes or no
+</td>
+<td>
+Combination therapy
+or chloroquine or hydroxychloroquine
+(dosages see above)
+plus remdesivir or monotherapy remdesivir ***
+</br>
+Remdesivir:
+</br>
+Adults: 200 mg loading dose (Day 1), then 100 mg once daily for 9 days **
+</br>
+Children: [link child formulary]
+</td>
+<td>
+Overview children: [link child formulary]
+</td>
+</tr>
+</table>
+
 
 \* Risk factors: cardiovascular stress, underlying lung disease, immune suppression, primary or secondary immune deficiency, older age (70+).
 

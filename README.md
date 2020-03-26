@@ -49,22 +49,22 @@ _This table consists of 4 columns. You can scroll / scroll horizontally on your 
 No recording indication</br>
 No extra oxygen requirement </td>
 <td>No</td>
-        <td>No treatment</td>
-        <td>Click here for the NHG advice</br>
-	    Click here for the Verenso advice</br>
-	    Click here for the NVALT advice
-        </td>
-      </tr>
-      <tr>
-	<td>Yes</td>
-        <td>In principle no treatment</br>
-	    See notes for a differentiated policy
-	</td>
-        <td> Monitor the course.In case of decline and need for admission: see "moderately serious"</br>
-	    For specialist: Consider starting only in patients with very serious underlying suffering or immune disorder, for example: recent stem cell transplant, severe COPD or heart failure 
-        </td>
-      </tr>
-      <tr>
+<td>No treatment</td>
+<td>Click here for the NHG advice</br>
+Click here for the Verenso advice</br>
+Click here for the NVALT advice
+</td>
+</tr>
+<tr>
+<td>Yes</td>
+<td>In principle no treatment</br>
+See notes for a differentiated policy
+</td>
+<td> Monitor the course.In case of decline and need for admission: see "moderately serious"</br>
+For specialist: Consider starting only in patients with very serious underlying suffering or immune disorder, for example: recent stem cell transplant, severe COPD or heart failure 
+</td>
+</tr>
+<tr>
 <td>"Moderately serious
 Recording indication nursing ward
 Additional oxygen delivery necessary"

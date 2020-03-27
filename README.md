@@ -50,7 +50,7 @@ _This table consists of 4 columns. You can scroll / scroll horizontally on your 
 \* Risk factors: cardiovascular stress, underlying lung disease, immune suppression, primary or secondary immune deficiency, older age (70+).
 
 \** Duration of treatment: 5 days chloroquine and 5 days hydroxychloroquine. Remdesivir treatment time is 10 days. Optimal duration is unknown and can be prolonged based on clinical condition, occurrence of side effects, and / or virus clearance. It is currently unclear whether a dose reduction should be performed in severe renal impairment. In NL there are now two flows, versus versus halving the dose after charging.
-Hydroxychloroquine may currently be limited in the Netherlands.
+Hydroxychloroquine may currently be limited in supply in the Netherlands.
 
 \*** Remdesivir is an unregistered medicine, only available through a Gilead compassionate use program. The treating physician submits the application via an online portal (https://rdvcu.gilead.com), after which Gilead approves / does not approve the indication. Note: The application process and transportation can take 48-72 hours. See also the Remdesivir Application Procedure web page for the procedure.
 
